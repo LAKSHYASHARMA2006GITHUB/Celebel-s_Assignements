@@ -45,4 +45,3 @@ Prints a symmetrical pyramid pattern using `*`.
 * * * * * * 
 
 **Example (n=6):**
-
