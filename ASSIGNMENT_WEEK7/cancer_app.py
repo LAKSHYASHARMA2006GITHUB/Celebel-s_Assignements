@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import joblib
-from sklearn.datasets import load_breast_cancer
+from sklearn.datasets import load_breast_cancer # import the dataset
 
 # Load model and data:
 model = joblib.load('cancer_model.pkl')
