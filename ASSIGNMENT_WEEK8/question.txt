@@ -1,0 +1,9 @@
+How many applicants were approved for loans?
+
+What is the rejection rate for loan applications?
+
+What factors are common among approved applications?
+
+Are self-employed applicants more likely to be denied a loan?
+
+Do higher incomes correlate with loan approval?
